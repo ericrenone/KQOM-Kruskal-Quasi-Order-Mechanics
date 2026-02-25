@@ -1,1 +1,1 @@
-# KQM--Kruskal-Quasi-Order-Mechanics
+# KQM-Kruskal-Quasi-Order-Mechanics
