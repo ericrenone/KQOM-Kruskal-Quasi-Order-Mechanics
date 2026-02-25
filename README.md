@@ -1,4 +1,4 @@
-# KQM-Kruskal Quasi-Order Mechanics
+# KQM Kruskal-Quasi-Order-Mechanics
 
 
 > Any dynamic system whose discretized state representation embeds into a well-quasi-ordered set inherits Structural Permeability: every infinite trajectory must contain a pair of steps (i, j) with i < j at which the earlier state is dominated by the later. A well-quasi-order requires simultaneously (1) no infinite strictly-descending chains and (2) no infinite set of mutually incomparable states. Reflexivity and transitivity alone are insufficient — the integers (ℤ, ≤) are reflexive and transitive yet admit infinite descending chains and therefore fail this property. The theorems that follow derive when and why learning trajectories satisfy both conditions, and what finiteness guarantees result.
